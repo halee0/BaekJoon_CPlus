@@ -6,6 +6,6 @@ int main(void){
     cin>>n;
     for (int i=0; i<n; i++){
         cin>>a>>b;
-        cout<<a+b;
+        cout<<a+b<<endl;
     }
 }
